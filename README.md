@@ -3,6 +3,14 @@
 ## Overview
 This web page allows users to enter a GitHub username and view the corresponding user profile along with their repositories.
 
+## Video
+Below is an short clip that demonstrates how it works.
+
+<video width="640" height="360" autoplay loop muted>
+  <source src="./dummy-video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Features
 - User-friendly interface for entering GitHub username.
 - Integration with GitHub API to fetch user data.
