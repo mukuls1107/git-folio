@@ -13,7 +13,7 @@ This web application allows users to enter a GitHub username and view the corres
 
 ## Technologies Used
 - HTML
-- Tailwind CSS
+- CSS
 - JavaScript
 - GitHub API
 
