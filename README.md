@@ -1,15 +1,15 @@
 # Git-Folio
 
 ## Overview
-This web application allows users to enter a GitHub username and view the corresponding user profile along with their repositories.
+This web page allows users to enter a GitHub username and view the corresponding user profile along with their repositories.
 
 ## Features
 - User-friendly interface for entering GitHub username.
 - Integration with GitHub API to fetch user data.
 - Display of user profile information such as username, bio, avatar, followers count, etc.
-- Listing of user repositories with details like repository name, description, stars count, etc.
+<!-- - Listing of user repositories with details like repository name, description, stars count, etc.
 - Sorting and filtering options for repositories list.
-- Responsive design for various devices.
+- Responsive design for various devices. -->
 
 ## Technologies Used
 - HTML
