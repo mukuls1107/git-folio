@@ -153,3 +153,19 @@ body{
     color: #666666;
     margin-bottom: 0.25rem;
 }
+
+
+.visit-profile-btn{
+    font: inherit;
+    font-size: 1.1rem;
+    padding: 0.5em;
+    width: 100%;
+    font-weight: 500;
+    background-color: #6658d3;
+    border-radius: 6px;
+    color: #FFF;
+    border: 0;
+    &:focus {
+        outline: 0;
+    }
+}

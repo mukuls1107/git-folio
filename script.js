@@ -84,6 +84,15 @@ function displayUserDetails() {
     let gist = document.createElement("p");
     gist.textContent = `Public Gists: ${userObj.numOfGist}`;
     userCard.appendChild(gist);
+    
+    let profileVisit = document.createElement("button");
+    profileVisit.innerText = "Visit Profile"
+    profileVisit.setAttribute("class", "visit-profile-btn")
+    profileVisit.addEventListener("click",()=>{
+        window.location.href = `https://github.com/${username}`
+    })
+    userCard.appendChild(profileVisit);
+    
     // Append user card to central box
     central.appendChild(userCard);
 
